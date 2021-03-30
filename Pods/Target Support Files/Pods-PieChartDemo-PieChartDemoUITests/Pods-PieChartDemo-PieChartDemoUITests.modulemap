@@ -1,0 +1,6 @@
+framework module Pods_PieChartDemo_PieChartDemoUITests {
+  umbrella header "Pods-PieChartDemo-PieChartDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
